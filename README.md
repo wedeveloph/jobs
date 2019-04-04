@@ -1,5 +1,5 @@
 # Job Board
-Work with (Developh)[http://developh.org]. Shift the way we think about tech.
+Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or colleged-aged youth are welcome to join.
 
