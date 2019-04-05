@@ -3,19 +3,10 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
-## General Benefits
-* Monthly Stipend
-* Event/Project Funding: For any delegations, competitions, etc. where you are willing to represent Developh
-* Network: Speaking and workshop opportunities, help with career and the like (but you're probably amazing at that already)
-* Merch Kit
-* Being part of a team you can always pick up and give to (and get things out of) -- share and launch your ideas as long as they align with our general objective
-* At least we're not Elon Musk?
-
-## Some things you have to know about our team culture
-Just for transparency's sake.
 
 # Openings
 
+* [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
 * Vice President of Technology/Internals
@@ -24,3 +15,19 @@ Just for transparency's sake.
 * Vice President of External Relations
 
 Information about each position will be linked.
+
+
+## General Benefits
+* Monthly stipend
+* Event/project funding: For any delegations, competitions, etc. where you are willing to represent Developh
+* Network: Speaking and workshop opportunities, help with career and the like (but you're probably amazing at that already)
+* Merch kit
+* Meme group
+* Being part of a team you can always pick up and give to (and get things out of) -- share and launch your project ideas as long as they align with our general objective (they likely will.)
+* At least we're not Jeff Bezos?
+
+## Some things you have to know about our team culture
+Just for transparency's sake.
+We work around a lot of chats and on occasion, voice meetings. Lots of moving parts so it's recommended that you have some knowledge of Google Suite, workflow tools (Notion/Asana), and can work your way around tech terms. We use chat and email as heavy communication channels, so it's suggested that you're responsive on those ends.
+
+We're spontaneous and throw lots of ideas around and do our best to make them happen. We regard one another as equals, valuing ideas and projects from every core member and allowing one another to give a go at the work we do. Transparency, honesty, and communication is key. At the end of it, we're still a student group with huge goals at making the world a better place -- we'll fail a lot which is okay, but only if we learn from those failures and strive to help one another out. We understand each other's circumstances, the diversity in each other's backgrounds and perspectives, and are welcome and open. Also we're pretty liberal and do not tolerate discrimination or fascism.
