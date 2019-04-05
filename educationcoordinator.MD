@@ -1,6 +1,6 @@
 # Education Coordinator
 
-Linking technology to education for impact. Education Coordinators connect with schools, communities, and other organizations to target communities that Developh can execute its initiatives with. This includes consulting with partners for outreaches, education campaigns, and others. Most importantly, Education Coordinators have a passion for education -- understanding and empathizing with different communities and ways we can learn from them.
+Linking technology to education for impact. Education Coordinators work with our curriculum, connect with schools, communities, and other organizations to target communities that Developh can execute its initiatives with. This includes consulting with partners for outreaches, education campaigns, and others. Most importantly, Education Coordinators have a passion for education -- understanding and empathizing with different communities and ways we can learn from them.
 
 Coordinators organize documents, conduct meetings, consult with both the education core and with external stakeholders, and strategize on ways to maximize our educational impact.
 
