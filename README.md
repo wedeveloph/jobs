@@ -17,7 +17,7 @@ Just for transparency's sake.
 # Openings
 
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
-* Education Coordinator
+* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
 * Vice President of Technology/Internals
 * Chapter Expansion Director
 * Advocacy Director
