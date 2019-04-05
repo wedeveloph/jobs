@@ -8,6 +8,8 @@ _Let's connect communities. The Regional Director aims to expand Developh's pres
 
 ## We're thinking of someone who...
 * Has previous interest or is passionate about technology, equality, and advocacy
+* Has some experience with technology or design; can delegate tasks and help review materials
+* Ability to help plan outreaches with the youth
 * Understands their community and the spaces that technology can fill within them
 * Has a strong heart and advocacy for education and volunteerism
 * Can communicate well, is dependable, and open to networking
