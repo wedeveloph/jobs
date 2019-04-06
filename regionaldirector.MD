@@ -10,7 +10,8 @@ _Let's connect communities. The Regional Director aims to expand Developh's pres
 * Has previous interest or is passionate about technology, equality, and advocacy
 * Understands their community and the spaces that technology can fill within them
 * Is excited about getting more people excited about innovation and helping them realize their potential
-* Can communicate well, is a fan (or is at least somewhat enthusiastic) about emails and talking to people
+* Can communicate well, is a fan (or is at least somewhat enthusiastic) for emails and talking to people
+* Disclaimer for the above: we just mean that we communicate through email a lot
 
 ## Interested?
 To apply as a Regional Director, please send us a *resume and a letter of intent* (the latter may be included in the body of your email) to jobs@developh.org.
