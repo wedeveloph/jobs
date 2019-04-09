@@ -16,6 +16,12 @@ This is the official job board for Developh. We post about available positions a
 
 Information about each position will be linked.
 
+# Other ways to contribute
+* Write for *Technology.ph*, our publication. You can submit to hello@developh.org.
+* Share your knowledge on any topic related to innovation for our outreach programs or open-source education initiatve. Message us at education@developh.org.
+* Partner with us or pitch a random project/idea that we might be able to do. We'll see how it goes! Send us a message as always.
+* Be _you!_ Create things, share them with the world, and you contribute to the creator ecosystem we're trying to raise.
+
 
 ## General Benefits
 * Monthly stipend
