@@ -9,7 +9,7 @@ This is the official job board for Developh. We post about available positions a
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
-* Vice President of Technology/Internals
+* [Vice President of Technology/Internals](https://github.com/wedeveloph/jobs/blob/master/vpoftechnology.md)
 * Chapter Expansion Director
 * Advocacy Director
 * Vice President of External Relations
