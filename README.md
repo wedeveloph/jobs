@@ -10,6 +10,7 @@ This is the official job board for Developh. We post about available positions a
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
 * [Vice President of Technology/Internals](https://github.com/wedeveloph/jobs/blob/master/vpoftechnology.md)
+* [Vice President of Education](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
 * Vice President of Growth and Strategy
 * Advocacy Director
 * Vice President of External Relations
