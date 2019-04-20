@@ -8,7 +8,7 @@ This is the official job board for Developh. We post about available positions a
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
-* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.MD)
+* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
 * [Vice President of Technology/Internals](https://github.com/wedeveloph/jobs/blob/master/vpoftechnology.md)
 * [Vice President of Education](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
