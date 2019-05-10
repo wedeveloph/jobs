@@ -14,6 +14,7 @@ This is the official job board for Developh. We post about available positions a
 * [Vice President of Education](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
 * Vice President of Growth and Strategy
 * Advocacy Director
+* [Technology.ph Editor-in-Chief](https://github.com/wedeveloph/jobs/blob/master/technologyEIC.md)
 * Vice President of External Relations
 
 Information about each position will be linked.
