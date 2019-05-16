@@ -3,6 +3,8 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
+**Applications sent in until May 31st will be prioritized!** We are recruiting new officers and leads for the upcoming school year. Apply now!
+
 
 # Openings
 
