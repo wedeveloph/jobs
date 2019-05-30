@@ -1,6 +1,7 @@
 # Editorial Board
 
 **Time Commitment**: 3 to 6 hours a week
+
 **We're looking for someone who** is keen for detail, is passionate for technology, innovation, and journalism, has experience working in publications such as school newspaper, community newspapers, and literary journals (preferrably held a editorial position in a publication)
 
 ## Positions

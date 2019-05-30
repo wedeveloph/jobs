@@ -21,7 +21,7 @@ This is the official job board for Developh. We post about available positions a
 Information about each position will be linked.
 
 # Openings: Technology.ph
-TBD
+* [Editorial Board](https://github.com/wedeveloph/jobs/blob/master/technology.ph/editorialboard.MD): News Editor, Features Editor, Layout Manager, Online Manager
 
 # Other ways to contribute
 * Write for *Technology.ph*, our publication. You can submit to hello@developh.org.
