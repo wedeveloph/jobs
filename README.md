@@ -9,14 +9,12 @@ This is the official job board for Developh. We post about available positions a
 # Openings
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
+* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.MD): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in!
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
 * [Vice President of Technology/Internals](https://github.com/wedeveloph/jobs/blob/master/vpoftechnology.md)
 * [Vice President of Education](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
-* Vice President of Growth and Strategy
-* Advocacy Director
-* Vice President of External Relations
 
 Information about each position will be linked.
 
