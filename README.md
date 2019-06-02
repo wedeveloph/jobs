@@ -3,13 +3,13 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
-**Applications sent in until May 31st will be prioritized!** We are recruiting new officers and leads for the upcoming school year. Apply now!
+**Applications sent in until mid-June will be prioritized!** We are recruiting new officers and leads for the upcoming school year.
 
 
 # Openings
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
-* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in!
+* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
