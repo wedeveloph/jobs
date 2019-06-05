@@ -11,11 +11,24 @@ Please send a cover letter (can be included in the body of your email), resume/C
 
 The opportunity is available to all high school or college-aged students. We're a remote team, and you *do not* have to be based in Manila.
 
+# Publication Leads
+
+**Time Commitment**: 5 to 8 hours a week
+
+**We're looking for someone who** is keen for detail, is passionate for technology, innovation, and journalism, has prior leadership experience (EIC, AE, ME, etc) in publications (such as school newspaper, community newspapers, and literary journals), is a regular or core member of Developh *(preferred)*
+
+## Associate Editor
+Assist the Editor-in-Chief in managing the content of the publication, as well as editing the op-ed articles submitted by writers and contributors
+
+## Managing Editor
+Assists the Editor-in-Chief in managing the overall operations and organization of the publication, such as making sure that deadlines are met, systems are organized and in place, as well as the potential partnerships
+
+
 # Editorial Board
 
 **Time Commitment**: 3 to 6 hours a week
 
-**We're looking for someone who** is keen for detail, is passionate for technology, innovation, and journalism, has experience working in publications such as school newspaper, community newspapers, and literary journals (preferrably held a editorial position in a publication)
+**We're looking for someone who** is keen for detail, is passionate for technology, innovation, and journalism, has experience working in publications such as school newspaper, community newspapers, and literary journals (preferably held a editorial position in a publication)
 
 ## Positions
 * **News Editor**: in charge of editing news articles on local and international tech developments
