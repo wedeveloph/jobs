@@ -10,6 +10,7 @@ This is the official job board for Developh. We post about available positions a
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
 * [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
+* [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph): Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can. **Due mid-June, results by end of June.**
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
 * [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
