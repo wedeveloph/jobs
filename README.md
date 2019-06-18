@@ -3,7 +3,7 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
-**Applications sent in until mid-June will be prioritized!** We are recruiting new officers and leads for the upcoming school year.
+**Applications sent in until mid-June will be prioritized!** We are recruiting new officers and leads for the upcoming school year as part of our **Summer Recruitment** series.
 
 
 # Openings
@@ -20,7 +20,7 @@ This is the official job board for Developh. We post about available positions a
 Information about each position will be linked.
 
 # Openings: Technology.ph
-* [Editorial Board](https://github.com/wedeveloph/jobs/blob/master/technology.ph/editorialboard.MD): News Editor, Features Editor, Layout Manager, Online Manager
+* [Visit technology.ph/jobs](https://technology.ph/jobs)
 
 # Other ways to contribute
 * Write for *Technology.ph*, our publication. You can submit to hello@developh.org.
