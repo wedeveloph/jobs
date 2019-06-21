@@ -4,7 +4,6 @@ Linking technology to education for impact. Education Coordinators work with our
 
 Coordinators organize documents, conduct meetings, consult with both the education core and with external stakeholders, and strategize on ways to maximize our educational impact.
 
-_Let's connect communities. The Regional Director aims to expand Developh's presence in their geographic locality, assisting in project management, promoting and helping in chapter establishment, and being the main person reported to for any advancements and events. They care about technology thriving in the hubs of every area where a computer can blink on--and the next generation of creators through education, advocacy, empowerment, and opportunity._
 
 ## We're thinking of someone who...
 * Has previous interest or is passionate about technology, equality, and advocacy

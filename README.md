@@ -8,16 +8,22 @@ This is the official job board for Developh. We post about available positions a
 
 ## Openings
 
-* [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation.
-* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
-* [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph): Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can. **Due mid-June, results by end of June.**
-* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD): Lead the development of the Developh community. Bring the youth together to create for social good.
-* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Lead Developh's expansion across your region.
-* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md): Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
-* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD): Join our education team in furthering our cause to make computing, design, and entrepreneurial education more accessible and equitable.
-* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
-
-Information about each position will be linked.
+* [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD)  
+ Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation.
+* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md)  
+As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
+* [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph)  
+Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can. **Due mid-June, results by end of June.**
+* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD)
+Lead the development of the Developh community. Bring the youth together to create for social good.
+* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD)  
+Lead Developh's expansion across your region.
+* [Media Core] (https://github.com/wedeveloph/jobs/blob/master/mediacore.md)  
+Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
+* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)  
+Help spearhead our education programs as we work towards equitable and accessible technology for all.
+* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)  
+Help connect and manage Developh's educational and volunteerism efforts with different schools and communities.
 
 ## Openings: Technology.ph
 [Visit technology.ph/jobs](https://technology.ph/jobs)
