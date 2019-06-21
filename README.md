@@ -1,21 +1,21 @@
 # Job Board
-Work with [Developh](http://developh.org). Shift the way we think about tech.
+Work with [Developh](http://developh.org). Shift the way we think about tech. 
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
-**Applications sent in until mid-June will be prioritized!** We are recruiting new officers and leads for the upcoming school year as part of our **Summer Recruitment** series.
+**Summer recruitment closes on June 22, 11:59PM. Send in your applications by then!** We are recruiting new officers and leads for the upcoming school year as part of our **Summer Recruitment** series.
 
 
 # Openings
 
-* [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Always hiring!
+* [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD): Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation.
 * [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md): As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
 * [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph): Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can. **Due mid-June, results by end of June.**
-* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Always hiring!
-* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)
-* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)
-* [Vice President of Technology/Internals](https://github.com/wedeveloph/jobs/blob/master/vpoftechnology.md)
-* [Vice President of Education](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
+* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD): Lead the development of the Developh community, 
+* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD): Lead Developh's expansion across your region.
+* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md): Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
+* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD): Join our education team in furthering our cause to make computing, design, and entrepreneurial education more accessible and equitable.
+* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)
 
 Information about each position will be linked.
 
