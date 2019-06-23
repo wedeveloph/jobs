@@ -21,7 +21,7 @@ Help spearhead our education programs as we work towards equitable and accessibl
 As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in! **Due mid-June, results by end of June.**
 * [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph)  
 Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can. **Due mid-June, results by end of June.**
-* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD)
+* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD)  
 Lead the development of the Developh community. Bring the youth together to create for social good.
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD)  
 Lead Developh's expansion across your region.
