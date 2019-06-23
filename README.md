@@ -3,10 +3,17 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
 
-**Summer recruitment closes on June 22, 11:59PM. Send in your applications by then!** We are recruiting new officers and leads for the upcoming school year as part of our **Summer Recruitment** series.
+**Applications have been extended til June 29 (Saturday), 11:59PM. Send in your applications by then!** We are recruiting new officers and leads for the upcoming academic year as part of our **Summer Recruitment** series.
 
 
 ## Openings
+
+### Executive Leadership
+
+* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)  
+Help spearhead our education programs as we work towards equitable and accessible technology for all.
+
+### Core Roles
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD)  
  Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation.
@@ -20,8 +27,6 @@ Lead the development of the Developh community. Bring the youth together to crea
 Lead Developh's expansion across your region.
 * [Media Core] (https://github.com/wedeveloph/jobs/blob/master/mediacore.md)  
 Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
-* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)  
-Help spearhead our education programs as we work towards equitable and accessible technology for all.
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)  
 Help connect and manage Developh's educational and volunteerism efforts with different schools and communities.
 
