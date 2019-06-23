@@ -25,7 +25,7 @@ Developh's upcoming tech publication. Apply for content, editorial, and marketin
 Lead the development of the Developh community. Bring the youth together to create for social good.
 * [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD)  
 Lead Developh's expansion across your region.
-* [Media Core] (https://github.com/wedeveloph/jobs/blob/master/mediacore.md)  
+* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)  
 Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)  
 Help connect and manage Developh's educational and volunteerism efforts with different schools and communities.
