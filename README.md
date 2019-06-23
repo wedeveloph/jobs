@@ -10,7 +10,7 @@ This is the official job board for Developh. We post about available positions a
 
 ### Executive Leadership
 
-* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/vpofeducation.md)  
+* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/chiefeducationofficer.md)  
 Help spearhead our education programs as we work towards equitable and accessible technology for all.
 
 ### Core Roles
