@@ -1,7 +1,7 @@
 # Job Board
 Work with [Developh](http://developh.org). Shift the way we think about tech. 
 
-This is the official job board for Developh. We post about available positions and openings that any high school students or college-aged youth are welcome to join.
+This is the official job board for Developh. We post about available positions and openings that any high school or college-aged youth are welcome to join.
 
 **Applications have been extended til June 29 (Saturday), 11:59PM. Send in your applications by then!** We are recruiting new officers and leads for the upcoming academic year as part of our **Summer Recruitment** series.
 
@@ -30,22 +30,29 @@ Be a part of enabling our visual brand and identity, telling stories and moving 
 * [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)  
 Help connect and manage Developh's educational and volunteerism efforts with different schools and communities.
 
-## Openings: Technology.ph
+### Technology.ph
+Technology.ph is Developh's official digital publication, spreading real technology movements forward.
 [Visit technology.ph/jobs](https://technology.ph/jobs)
 
-## Other ways to contribute
-* Write for *Technology.ph*, our publication. You can submit to hello@developh.org.
+### Other ways to contribute
+* Working on a venture that's making waves? Have a problem you're passionate about solving? Developh runs different programs to support student founders and would love to support/collaborate with you! [Learn about our ventures](https://developh.org/jobs) 
+* Write for *Technology.ph*, our publication.
 * Share your knowledge on any topic related to innovation for our outreach programs or open-source education initiatve. Message us at education@developh.org.
 * Partner with us or pitch a random project/idea that we might be able to do. We'll see how it goes! Send us a message as always.
 * Be _you!_ Create things, share them with the world, and you contribute to the creator ecosystem we're trying to raise.
 
 
-### General Benefits
-* Monthly stipend
-* Event/project funding: For any delegations, competitions, etc. where you are willing to represent Developh
-* Network: Speaking and workshop opportunities, help with career and the like (but you're probably amazing at that already)
-* Merch kit
-* Meme group
+## Frequently Asked Questions
+
+
+## General Benefits
+* **Monthly stipend**. We value your time and effort, and have the capacity to compensate members.
+* Delegations to conferences and events with funding assistance where you're willing to represent Developh
+* Global impact. Not binded to any institution and focusing on both local and larger problems, we make sure your work is seen, heard, and valued.
+* Networking, speaking, and workshop opportunities along with career help. We maintain relationships with people who can uplift your work as they do ours, and we're always here to help internally.
+* Basics such as core merchandise and materials, a meme group, etc/
+* For general core members, we're flexible and adaptive to your schedules; not so much a benefit but a fact on how we operate: you get what you give, and we know how things can be.
+* Priority with Developh Ventures, in case you're working on a side project
 * Being part of a team you can always pick up and give to (and get things out of) -- share and launch your project ideas as long as they align with our general objective (they likely will.)
 * At least we're not Jeff Bezos?
 
