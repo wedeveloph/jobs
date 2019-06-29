@@ -3,7 +3,8 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school or college-aged youth are welcome to join.
 
-**Applications have been extended til June 29 (Saturday), 11:59PM. Send in your applications by then!** We are recruiting new officers and leads for the upcoming academic year as part of our **Summer Recruitment** series.
+**Applications are closed. Thank you to everyone who applied.**
+Results will be released by the first or second week of July, after we've finished with all interviews and deliberations. Email us at hello@developh.org for any questions!
 
 
 ## Openings
@@ -16,19 +17,9 @@ Help spearhead our education programs as we work towards equitable and accessibl
 ### Core Roles
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD)  
- Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation.
-* [Innovation Core](http://github.com/wedeveloph/jobs/blob/master/innovationcore.md)  
-As Developh expands it accelerator programs, we're looking to hire new core members to be part of our innovation team. If you're interested in tech-enabled startups, entrepreneurship, and social impact--join in!
-* [Technology.ph](https://github.com/wedeveloph/jobs/tree/master/technology.ph)  
-Developh's upcoming tech publication. Apply for content, editorial, and marketing positions as soon as you can.
-* [Chapter Expansion Director](https://github.com/wedeveloph/jobs/blob/master/chapterexpansiondirector.MD)  
-Lead the development of the Developh community. Bring the youth together to create for social good.
-* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD)  
-Lead Developh's expansion across your region.
-* [Media Core](https://github.com/wedeveloph/jobs/blob/master/mediacore.md)  
-Be a part of enabling our visual brand and identity, telling stories and moving people through multimedia.
-* [Education Coordinator](https://github.com/wedeveloph/jobs/blob/master/educationcoordinator.MD)  
-Help connect and manage Developh's educational and volunteerism efforts with different schools and communities.
+ Core members are general team members, helping out various committees and projects - working as a chance to explore the organization and the different intersections of technology and creation. **Always hiring**
+* [Regional Director](https://github.com/wedeveloph/jobs/blob/master/regionaldirector.MD) 
+Lead Developh's expansion across your region. **Always hiring**
 
 ### Technology.ph
 Technology.ph is Developh's official digital publication, spreading real technology movements forward.
@@ -40,9 +31,6 @@ Technology.ph is Developh's official digital publication, spreading real technol
 * Share your knowledge on any topic related to innovation for our outreach programs or open-source education initiatve. Message us at education@developh.org.
 * Partner with us or pitch a random project/idea that we might be able to do. We'll see how it goes! Send us a message as always.
 * Be _you!_ Create things, share them with the world, and you contribute to the creator ecosystem we're trying to raise.
-
-
-## Frequently Asked Questions
 
 
 ## General Benefits
