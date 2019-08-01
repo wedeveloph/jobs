@@ -6,14 +6,16 @@ Developh's growing innovation model invests in students with the will to build i
 Remember: Ideas are cheap, execution is everything.
 
 # Open Positions
-Our Chief Innovation Office is Pauline Baterna. We're potentially looking for an associate, and for core members to work under the following:
+Our Chief Innovation Office is Pauline Baterna. We're potentially looking for an associate Chief Innovation Officer with demonstrated experience and engagement in the startup ecosystem, and for core members to work under the following:
 
-## Expansion (2)
+## Expansion
 Focused on identifying, recruiting, and training founders. Involves hosting events, holding workshops on the basics of the startup process, analyzing the entrepreneurship sector, and the like. Deals with initial investment, helping with initial market analysis, connections to talent, etc.
+_Preferably someone interested in communities, causes, and the intersection of technology in different fields. Event management/marketing experience a plus!_
 
 
-## Growth (2)
+## Growth
 Works on the scaling of ventures, managing and growing the product. Connects ventures to mentors, prepares workshops/training on any technical needs, helps scale and grow through the product development lifecycle. 
+_Preferably someone interested in product management, technology, and rapid innovation. Startup experience a plus!_
 
 # About us
 
