@@ -14,6 +14,9 @@ Results will be released by the first or second week of July, after we've finish
 * [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/chiefeducationofficer.md)  
 Help spearhead our education programs as we work towards equitable and accessible technology for all.
 
+* [Chief Innovation Officer](https://github.com/wedeveloph/jobs/blob/master/chiefinnovationofficer.md)  
+Oversee the product growth of social impact ventures, accelerator programs, and more.
+
 ### Core Roles
 
 * [Core](http://github.com/wedeveloph/jobs/blob/master/core.MD)  
