@@ -3,8 +3,8 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school or college-aged youth are welcome to join.
 
-**Applications are closed. Thank you to everyone who applied.**
-Results will be released by the first or second week of July, after we've finished with all interviews and deliberations. Email us at hello@developh.org for any questions!
+**Applications are accepted at any time. Message us if you think you're a fit.**
+Email us at hello@developh.org for any questions!
 
 
 ## Openings
@@ -16,6 +16,9 @@ Help spearhead our education programs as we work towards equitable and accessibl
 
 * [Chief Innovation Officer](https://github.com/wedeveloph/jobs/blob/master/chiefinnovationofficer.md)  
 Oversee the product growth of social impact ventures, accelerator programs, and more.
+
+* [Chief Technology Officer](https://github.com/wedeveloph/jobs/blob/master/chieftechnologyofficer.md)  
+Help us engineer a better organization and platform.
 
 ### Core Roles
 
