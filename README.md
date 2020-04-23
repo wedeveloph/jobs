@@ -4,6 +4,7 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 This is the official job board for Developh. We post about available positions and openings that any high school or college-aged youth are welcome to join.
 
 **Applications are accepted at any time. Message us if you think you're a fit.**
+**We are currently seeking a Chief Community Officer as we work to expand remotely. If you think you're a fit, talk to us!**
 Email us at hello@developh.org for any questions!
 
 
@@ -14,11 +15,8 @@ Email us at hello@developh.org for any questions!
 * [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/chiefeducationofficer.md)  
 Help spearhead our education programs as we work towards equitable and accessible technology for all.
 
-* [Chief Innovation Officer](https://github.com/wedeveloph/jobs/blob/master/chiefinnovationofficer.md)  
-Oversee the product growth of social impact ventures, accelerator programs, and more.
-
-* [Chief Technology Officer](https://github.com/wedeveloph/jobs/blob/master/chieftechnologyofficer.md)  
-Help us engineer a better organization and platform.
+* [Chief Community Officer](https://github.com/wedeveloph/jobs/blob/master/chiefcommunityofficer.md)  
+Scale Developh, its people, partners, and how we engage with students over the world.
 
 ### Core Roles
 
