@@ -1,4 +1,4 @@
-# Vice President of Technology/CTO
+# Chief Technology Officer
 
 The Vice President of Technology/Chief Technology Officer (previously known as the Vice President of Internals) manages the technical side of the functions and programs of the nonprofit, such as ensuring the organization's main advocacy on spreading computing education and nurturing student-led innovation is met. They delegate tasks while working with the various committees and directors to ensure the success and growth of projects and initiatives, especially on our education and accelerator initiatives. 
 
