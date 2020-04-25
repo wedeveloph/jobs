@@ -4,7 +4,7 @@ Our Head of Community is in love with student-centric communities around technol
 The Head of Community will help plan and execute programs and events such as workshops, talks, and community nights; help onboard new communities to the Developh Community program as well as scout for more partners at scale; and work within the executive team to be the best advocate for the students we serve. The Head coordinates with the Chief Creatives Officer on the media coverage of Developh's participation in conferences; organizes meetings and brews partnerships with organizations relevant to Developh's missions and objectives; and represent Developh in external events. You're in this position because you're interested in people, communities, and building systems for equity in technology at scale.
 
 ## We're thinking of someone who...
-* Has previous interest technology, equality, and advocacy
+* Has previous interest technology, equality, and advocacy; and is engaged with how this can take shape online (we're an online organization!)
 * Understands their community and the spaces that technology can fill within them, and desires to learn about communities beyond their own
 * Is empathetic and committed to intentional inclusivity and accessibility: they want a technology ecosystem shaped by all
 * Communicates well, is timely, and enjoys bringing people together in different forms
