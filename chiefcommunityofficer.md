@@ -20,4 +20,6 @@ ___
 
 To apply, please send us a resume and a letter of intent (the latter may be included in the body of your email) to jobs@developh.org. (The letter of intent is important.)
 
+We'll start with a casual chat with you about your interest in the role, then will invite screened applicants to a second interview.
+
 The opportunity is available to all high school or college-aged students with a consistent internet connection and able to work remotely at least 3-5 hours a week. You will be expected to report to meetings and work with the core team of the nonprofit.
