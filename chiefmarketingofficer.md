@@ -5,11 +5,12 @@ You'll think about strategy, assessing competitors, help forge partnerships, thi
 
 ## We're thinking of someone who...
 * Has previous interest technology, equality, and advocacy; and is engaged with how this can take shape online (we're an online organization!)
-* Has previous experience crafting marketing campaigns (for your school? a club? your own project? run an art account? we'd love to talk!)
+* Has previous experience crafting marketing campaigns (for your school? a club? your own project? run an art account? we'd love to talk!), and tracking + managing all content and output
 * Is empathetic and committed to intentional inclusivity and accessibility: they want a technology ecosystem shaped by all
 * Is interested in youth-led and technology organizations: you'll be figuring out how to position us in this market, so forging friendships and relationships is key
 * Not afraid to think about partnerships and connections
 * Communicates well, is timely, and enjoys bringing people together in different forms
+* Can juggle multiple projects (many of Developh's initiatives are spontaneously planned!)
 * Works collaboratively with the Developh team to achieve organization goals
 
 ## Nice-to-haves
