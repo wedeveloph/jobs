@@ -21,7 +21,10 @@ You'll think about strategy, assessing competitors, help forge partnerships, thi
 
 ___
 
-To apply, please send us a resume and a letter of intent (the latter may be included in the body of your email) to jobs@developh.org. (The letter of intent is important.)
+To apply, you can either follow the directions below or use our Google Form: https://forms.gle/misgRuC5K5Yk7LPq7
+
+You can also send us a resume and a letter of intent (the latter may be included in the body of your email) to jobs@developh.org. (The letter of intent is important.)
+**Applications are due May 30, 2020.**
 
 We'll start with a casual chat with you about your interest in the role, then will invite screened applicants to a second interview.
 
