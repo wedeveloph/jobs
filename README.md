@@ -12,8 +12,8 @@ Email us at hello@developh.org for any questions!
 
 ### Executive Leadership
 
-* [Chief Education Officer](https://github.com/wedeveloph/jobs/blob/master/chiefeducationofficer.md)  
-Help spearhead our education programs as we work towards equitable and accessible technology for all.
+* [Chief Marketing Officer](https://github.com/wedeveloph/jobs/blob/master/chiefmarketingfficer.md)  
+Change the way we think about strategies to communicate, influence, and impact.
 
 * [Chief Community Officer](https://github.com/wedeveloph/jobs/blob/master/chiefcommunityofficer.md)  
 Scale Developh, its people, partners, and how we engage with students over the world.
