@@ -18,7 +18,7 @@ The Head of Community will help plan and execute programs and events such as wor
 
 ___
 
-To apply, you can either follow the directions below or use our Google Form: https://forms.gle/ZRpjvvdvKWBvf1uRA 
+To apply, you can either follow the directions below or use our Google Form: https://forms.gle/ZPJwsmsJyUH7NniS9
 
 You can also send us a resume and a letter of intent (the latter may be included in the body of your email) to jobs@developh.org. (The letter of intent is important.)
 **Applications are due May 30, 2020.**
