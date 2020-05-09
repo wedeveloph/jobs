@@ -12,7 +12,7 @@ Email us at hello@developh.org for any questions!
 
 ### Executive Leadership
 
-* [Chief Marketing Officer](https://github.com/wedeveloph/jobs/blob/master/chiefmarketingfficer.md)  
+* [Chief Marketing Officer](https://github.com/wedeveloph/jobs/blob/master/chiefmarketingofficer.md)  
 Change the way we think about strategies to communicate, influence, and impact.
 
 * [Chief Community Officer](https://github.com/wedeveloph/jobs/blob/master/chiefcommunityofficer.md)  
