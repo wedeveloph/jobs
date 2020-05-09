@@ -21,7 +21,7 @@ You'll think about strategy, assessing competitors, help forge partnerships, thi
 
 ___
 
-To apply, you can either follow the directions below or use our Google Form: https://forms.gle/misgRuC5K5Yk7LPq7
+To apply, you can either follow the directions below or use our Google Form: https://forms.gle/bgP8FqRrzWLSuts47
 
 You can also send us a resume and a letter of intent (the latter may be included in the body of your email) to jobs@developh.org. (The letter of intent is important.)
 **Applications are due May 30, 2020.**
