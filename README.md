@@ -3,8 +3,8 @@ Work with [Developh](http://developh.org). Shift the way we think about tech.
 
 This is the official job board for Developh. We post about available positions and openings that any high school or college-aged youth are welcome to join.
 
-**Applications are accepted at any time. Message us if you think you're a fit.**
-**We are currently seeking a Chief Community Officer as we work to expand remotely. If you think you're a fit, talk to us!**
+**We are currently seeking a Chief Marketing Officer and a Chief Community Officer as we work to expand remotely. These roles are due on May 30th! [Read more on our blog](https://medium.com/developh/the-developh-executive-board-is-growing-7ee9f182c13c)**
+
 Email us at hello@developh.org for any questions!
 
 
